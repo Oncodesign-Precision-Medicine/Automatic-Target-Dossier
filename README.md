@@ -26,3 +26,17 @@ Example of a pdf page:
 # Examples from the PowerPoint
 
 Check the full example.
+
+Examples of generated PowerPoint slides:
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_1.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_2.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_3.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_4.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_5.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_6.png?raw=true)
