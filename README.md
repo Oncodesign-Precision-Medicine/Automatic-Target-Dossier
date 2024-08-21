@@ -1,4 +1,6 @@
-# Automatic-Target-Dossier
+<div align="center">
+  # Automatic-Target-Dossier
+</div>
 
 <div align="center">
   <img src="https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/logo.webp?raw=true" alt="automatic target dossier example" width="300"/>
