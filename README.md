@@ -6,12 +6,22 @@ The advancement of artificial intelligence algorithms has expanded their applica
 
 ## Content of the repository
 
-* a PDF example of an automatically generated target dossier
-* a PowerPoint generated using a LLM
+* a PDF example of an automatically generated target dossier - **[here](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/target_dossier_KRAS_pancreatic_cancer.pdf)**
+* a PowerPoint generated using a LLM - **[here](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/target_dossier_KRAS_pancreatic_cancer.pptx)**
 
 # Examples from the PDF
 
 Check the full example.
+
+Table of content:
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pdf_1.png?raw=true)
+
+Example of a pdf page:
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pdf_2.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pdf_3.png?raw=true)
 
 # Examples from the PowerPoint
 
