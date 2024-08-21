@@ -1,6 +1,9 @@
 # Automatic-Target-Dossier
 
-<img src="https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/logo.webp?raw=true" alt="automatic target dossier example" width="300"/>
+<div align="center">
+  <img src="https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/logo.webp?raw=true" alt="automatic target dossier example" width="300"/>
+</div>
+
 
 ## Abstract
 
