@@ -1,5 +1,5 @@
 <div align="center">
-  # Automatic-Target-Dossier
+  <h1>Automatic-Target-Dossier</h1>
 </div>
 
 <div align="center">
