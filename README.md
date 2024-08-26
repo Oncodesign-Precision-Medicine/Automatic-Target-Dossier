@@ -1,11 +1,14 @@
 <div align="center">
-  <h1>Automatic-Target-Dossier</h1>
+  <h1>SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents</h1>
+  [G. Fossi]() - [Y. Boulaimen]() - [L. Outemzabet]() - [N. Jeanray]() - [S. Gerart]() - [S. Vachenc]() - [J. Giemza]() - [S. Raieli]()
 </div>
 
 <div align="center">
   <img src="https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/logo.webp?raw=true" alt="automatic target dossier example" width="300"/>
 </div>
 
+
+This is a technical report showing how is possible to generate an automatic target dossier using LLM, RAG and agents
 
 ## Abstract
 
