@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Automatic-Target-Dossier</h1>
+  <h1>SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents</h1>
+  [G. Fossi]() - [Y. Boulaimen]() - [L. Outemzabet]() - [N. Jeanray]() - [S. Gerart]() - [S. Vachenc]() - [J. Giemza]() - [S. Raieli]()
 </div>
 
 <div align="center">
