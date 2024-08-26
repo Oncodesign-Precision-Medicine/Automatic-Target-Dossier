@@ -10,6 +10,7 @@
   <a href="URL_FOR_S_RAIELI">S. Raieli<sup>1, 2</sup></a>
   <br>
   <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
+  <br>
   <sup>2</sup>Corresponding author: sraieli@oncodesign.com
 </div>
 
