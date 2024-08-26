@@ -1,7 +1,18 @@
 <div align="center">
   <h1>SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents</h1>
-  [G. Fossi]() - [Y. Boulaimen]() - [L. Outemzabet]() - [N. Jeanray]() - [S. Gerart]() - [S. Vachenc]() - [J. Giemza]() - [S. Raieli]()
+  <a href="URL_FOR_G_FOSSI">G. Fossi<sup>1</sup></a> - 
+  <a href="URL_FOR_Y_BOULAIMEN">Y. Boulaimen<sup>1</sup></a> - 
+  <a href="URL_FOR_L_OUTEMZABET">L. Outemzabet<sup>1</sup></a> - 
+  <a href="URL_FOR_N_JEANRAY">N. Jeanray<sup>1</sup></a> - 
+  <a href="URL_FOR_S_GERART">S. Gerart<sup>1</sup></a> - 
+  <a href="URL_FOR_S_VACHENC">S. Vachenc<sup>1</sup></a> - 
+  <a href="URL_FOR_J_GIEMZA">J. Giemza<sup>1</sup></a> - 
+  <a href="URL_FOR_S_RAIELI">S. Raieli<sup>1, 2</sup></a>
+  <br>
+  <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
+  <sup>2</sup>Corresponding author: sraieli@oncodesign.com
 </div>
+
 
 <div align="center">
   <img src="https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/logo.webp?raw=true" alt="automatic target dossier example" width="300"/>
