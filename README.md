@@ -1,13 +1,13 @@
 <div align="center">
   <h1>SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents</h1>
-  <a href="URL_FOR_G_FOSSI">G. Fossi<sup>1</sup></a> - 
-  <a href="URL_FOR_Y_BOULAIMEN">Y. Boulaimen<sup>1</sup></a> - 
-  <a href="URL_FOR_L_OUTEMZABET">L. Outemzabet<sup>1</sup></a> - 
-  <a href="URL_FOR_N_JEANRAY">N. Jeanray<sup>1</sup></a> - 
-  <a href="URL_FOR_S_GERART">S. Gerart<sup>1</sup></a> - 
-  <a href="URL_FOR_S_VACHENC">S. Vachenc<sup>1</sup></a> - 
-  <a href="URL_FOR_J_GIEMZA">J. Giemza<sup>1</sup></a> - 
-  <a href="URL_FOR_S_RAIELI">S. Raieli<sup>1, 2</sup></a>
+  <a href="https://www.linkedin.com/in/gabriele-fossi/">G. Fossi<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/youssef-boulaimen/">Y. Boulaimen<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/leilaoutemzabet/">L. Outemzabet<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/nathaliejeanray/">N. Jeanray<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/stephanegerart/">S. Gerart<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/vachenc-sebastien/">S. Vachenc<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/joannagiemza/">J. Giemza<sup>1</sup></a> - 
+  <a href="https://www.linkedin.com/in/salvatore-raieli/">S. Raieli<sup>1, 2</sup></a>
   <br>
   <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
   <br>
