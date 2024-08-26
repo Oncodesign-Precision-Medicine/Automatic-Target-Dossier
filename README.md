@@ -8,12 +8,11 @@
   <a href="https://www.linkedin.com/in/vachenc-sebastien/">S. Vachenc<sup>1</sup></a> - 
   <a href="https://www.linkedin.com/in/joannagiemza/">J. Giemza<sup>1</sup></a> - 
   <a href="https://www.linkedin.com/in/salvatore-raieli/">S. Raieli<sup>1, 2</sup></a>
-  <small style="font-size: 12px;">
   <br>
-    <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
-    <br>
-    <sup>2</sup>Corresponding author: sraieli@oncodesign.com
-  </small>
+  <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
+  <br>
+  <sup>2</sup>Corresponding author: sraieli@oncodesign.com
+  
 </div>
 
 
