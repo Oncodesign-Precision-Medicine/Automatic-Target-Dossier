@@ -65,3 +65,5 @@ Examples of generated PowerPoint slides:
 ![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_5.png?raw=true)
 
 ![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_6.png?raw=true)
+
+![automatic target dossier example](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/pp_7.png?raw=true)
