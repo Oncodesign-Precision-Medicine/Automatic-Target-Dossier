@@ -31,6 +31,26 @@ The advancement of artificial intelligence algorithms has expanded their applica
 
 ## How to cite
 
+Chicago formatted citation:
+
+```
+Gabriele Fossi, Youssef Boulaimen, Leila Outemzabet, Nathalie Jeanray, Stephane Gerart, Sebastien Vachenc, Joanna Giemza, and Salvatore Raieli. "SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents." 2024. arXiv. https://arxiv.org/abs/2409.15817.
+```
+
+BibTeX formatted citation:
+
+```
+@misc{fossi2024swiftdossiertailoredautomaticdossier,
+      title={SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents}, 
+      author={Gabriele Fossi and Youssef Boulaimen and Leila Outemzabet and Nathalie Jeanray and Stephane Gerart and Sebastien Vachenc and Joanna Giemza and Salvatore Raieli},
+      year={2024},
+      eprint={2409.15817},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2409.15817}, 
+}
+```
+
 ## Content of the repository
 
 * a PDF example of an automatically generated target dossier - **[here](https://github.com/SalvatoreRa/Automatic-Target-Dossier/blob/main/target_dossier_KRAS_pancreatic_cancer.pdf)**
