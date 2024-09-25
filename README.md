@@ -12,6 +12,8 @@
   <sup>1</sup> Oncodesign Precision Medicine, 18 rue Jean Mazen, Dijon, 21000, France
   <br>
   <sup>2</sup>Corresponding author: sraieli@oncodesign.com
+  <br> 
+  <a href="https://arxiv.org/abs/2409.15817">ArXiv article<sup>1</sup></a>
   
 </div>
 
